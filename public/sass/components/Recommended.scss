@@ -1,0 +1,12 @@
+@use '../abstracts/forward' as *;
+
+.rec-title {
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 20%;
+}
+
+.rec-btns {
+    margin: 20px 0 20px 20%;
+    font-size: 20px;   
+}
